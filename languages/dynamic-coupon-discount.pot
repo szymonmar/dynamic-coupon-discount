@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dynamic Coupon Discount for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: dynamic-coupon-discount\n"
+
+msgid "Dynamic discount"
+msgstr ""
+
+msgid "Activate dynamic discount"
+msgstr ""
+
+msgid "When active and at least one rule exists, the default coupon amount is ignored and only the rules below are used."
+msgstr ""
+
+#. translators: %s: currency symbol
+#, php-format
+msgid "Rules are matched against the cart total (%s). Leave \"Price to\" empty for no upper limit. If ranges overlap, the first matching rule (lowest \"Price from\") wins. If no rule matches, the coupon cannot be applied."
+msgstr ""
+
+#, php-format
+msgid "Price from (%s)"
+msgstr ""
+
+#, php-format
+msgid "Price to (%s)"
+msgstr ""
+
+msgid "Discount"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Percent (%)"
+msgstr ""
+
+#, php-format
+msgid "Flat (%s)"
+msgstr ""
+
+msgid "Remove rule"
+msgstr ""
+
+msgid "Add rule"
+msgstr ""
+
+msgid "This coupon is not available for the current cart total."
+msgstr ""
